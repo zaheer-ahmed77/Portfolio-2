@@ -21,30 +21,30 @@ body {
 
 
 #home {
-  background: url('images/Expert.jpg') no-repeat center center;
+  background: url('images/Background.jpg') no-repeat center center;
   background-size: cover;
-  color: white; /* optional for visibility */
+  color: white; 
 }
 #about {
-  background: url('images/Expert.jpg') no-repeat center center;
+  background: url('images/Background.jpg') no-repeat center center;
   background-size: cover;
   color: white; 
 }
 
 #expertise {
-  background: url('images/Expert.jpg') no-repeat center center;
+  background: url('images/Background.jpg') no-repeat center center;
   background-size: cover;
-  color: white; /* optional for visibility */
+  color: white; 
 }
 
 #projects {
-  background: url('images/Expert.jpg') no-repeat center center;
+  background: url('images/Background.jpg') no-repeat center center;
   background-size: cover;
-  color: white; /* optional for visibility */
+  color: white; 
 }
 
 #contact {
-  background: url('images/Expert.jpg') no-repeat center center;
+  background: url('images/Background.jpg') no-repeat center center;
   background-size: cover;
   color: white; 
 }
