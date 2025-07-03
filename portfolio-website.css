@@ -20,30 +20,11 @@ body {
 
 
 
-#home {
-  background: url('images/Background.jpg') no-repeat center center;
-  background-size: cover;
-  color: white; 
-}
-#about {
-  background: url('images/Background.jpg') no-repeat center center;
-  background-size: cover;
-  color: white; 
-}
-
-#expertise {
-  background: url('images/Background.jpg') no-repeat center center;
-  background-size: cover;
-  color: white; 
-}
-
-#projects {
-  background: url('images/Background.jpg') no-repeat center center;
-  background-size: cover;
-  color: white; 
-}
-
-#contact {
+#home,
+#about,
+#expertise,
+#projects,
+#contact{
   background: url('images/Background.jpg') no-repeat center center;
   background-size: cover;
   color: white; 
